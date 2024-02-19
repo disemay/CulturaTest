@@ -51,4 +51,6 @@ element5.click()
 element6 = driver.find_element(AppiumBy.ID, 'android:id/button2')
 element6.click()
 
+
+
 driver.quit()
